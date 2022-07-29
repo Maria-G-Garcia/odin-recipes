@@ -1,0 +1,28 @@
+body{
+    color: blueviolet;
+    background-color: lightblue;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+h1{
+    margin: 60px auto 0px;
+    padding: 20px;
+    font-size: 70px;
+   
+}
+img{
+    display: block;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+}
+a{
+    color:#FFFFFF;
+    text-decoration: none;
+}
+li{
+    margin:20px auto;
+    list-style: none;
+    font-size: 30px;
+}
